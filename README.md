@@ -18,7 +18,7 @@ This project analyzes point-of-sale data to answer:
 
 ## Data
 
-`bakery.xlsx` contains transaction-level sales data with columns such as `datetime`, `hour`, `day of week`, and `total`.
+The dataset contains transaction-level bakery sales records, with attributes such as date/time of purchase, hour, day of week, total amount, and individual menu items purchased. The raw data file is not included in this repository.
 
 ## License
 
