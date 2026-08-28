@@ -20,6 +20,3 @@ This project analyzes point-of-sale data to answer:
 
 The dataset contains transaction-level bakery sales records, with attributes such as date/time of purchase, hour, day of week, total amount, and individual menu items purchased. The raw data file is not included in this repository.
 
-## License
-
-For educational/portfolio purposes.
