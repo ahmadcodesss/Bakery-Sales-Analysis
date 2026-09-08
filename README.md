@@ -22,17 +22,16 @@ The dataset contains transaction-level bakery sales records, with attributes suc
 
 ## Visualizations
 
-**Total income per business hour**
-![Total income per business hour](docs/images/totalincomeperbusinesshour.png)
-
-**Number of sales per food item**
-![Number of sales per food item](docs/images/Numberofsalesperfooditem.png)
-
-**Number of sales per drink item**
-![Number of sales per drink item](docs/images/numberofsalesperdrinkitem.png)
-
-**Food and drink sales per hour**
-![Food and drink sales per hour](docs/images/foodanddrinksalesperhour.png)
-
-**Proportion of food vs drink sales per hour**
-![Proportion of food vs drink sales per hour](docs/images/proportionoffoodvsdrinksalesperhour.png)
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td align="center"><img src="docs/images/totalincomeperbusinesshour.png" width="480"/><br><b>Total income per business hour</b></td>
+    <td align="center"><img src="docs/images/Numberofsalesperfooditem.png" width="480"/><br><b>Number of sales per food item</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/images/numberofsalesperdrinkitem.png" width="480"/><br><b>Number of sales per drink item</b></td>
+    <td align="center"><img src="docs/images/foodanddrinksalesperhour.png" width="480"/><br><b>Food and drink sales per hour</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="docs/images/proportionoffoodvsdrinksalesperhour.png" width="700"/><br><b>Proportion of food vs drink sales per hour</b></td>
+  </tr>
+</table>
