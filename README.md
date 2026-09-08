@@ -20,3 +20,19 @@ This project analyzes point-of-sale data to answer:
 
 The dataset contains transaction-level bakery sales records, with attributes such as date/time of purchase, hour, day of week, total amount, and individual menu items purchased. The raw data file is not included in this repository.
 
+## Visualizations
+
+**Total income per business hour**
+![Total income per business hour](docs/images/totalincomeperbusinesshour.png)
+
+**Number of sales per food item**
+![Number of sales per food item](docs/images/Numberofsalesperfooditem.png)
+
+**Number of sales per drink item**
+![Number of sales per drink item](docs/images/numberofsalesperdrinkitem.png)
+
+**Food and drink sales per hour**
+![Food and drink sales per hour](docs/images/foodanddrinksalesperhour.png)
+
+**Proportion of food vs drink sales per hour**
+![Proportion of food vs drink sales per hour](docs/images/proportionoffoodvsdrinksalesperhour.png)
